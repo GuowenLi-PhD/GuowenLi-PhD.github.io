@@ -24,10 +24,10 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/CV_Guowen_Li_03162025.pdf
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
