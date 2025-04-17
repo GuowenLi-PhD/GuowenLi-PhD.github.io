@@ -9,7 +9,16 @@ redirect_from:
 
 😊 I am a final-year PhD student at Texas A&M University, College Station, TX, USA.
 
-🔍 My research interests are in Building Energy and HVAC Systems Design, Analysis, Modeling, Simulation, and Optimization; Grid-interactive Efficient Buildings; Cyber-physical Systems; District Heating and Cooling Systems; Thermal Energy Storage; Modelica Modeling; Model Predictive Control; Energy Resilience; Building-to-Grid Integration.
+🔍 My research interests include the following topics:
+- Building Energy and HVAC Systems Design, Analysis, Modeling, Simulation, and Optimization  
+- Grid-interactive Efficient Buildings  
+- Cyber-physical Systems  
+- District Heating and Cooling Systems  
+- Thermal Energy Storage  
+- Modelica Modeling  
+- Model Predictive Control  
+- Energy Resilience  
+- Building-to-Grid Integration
 
 Research Projects
 ======
@@ -22,14 +31,14 @@ Academic Reviewer
 
 Journals
 ------
-1. Energy and Buildings
-1. Developments in the Built Environment
-1. Journal of Building Engineering 
+- Energy and Buildings
+- Developments in the Built Environment
+- Journal of Building Engineering
 
 Conferences
 ------
-1. ASHRAE (American Society of Heating, Refrigerating and Air-Conditioning Engineers)
-1. IBPSA (International Building Performance Simulation Association)
+- ASHRAE (American Society of Heating, Refrigerating and Air-Conditioning Engineers)
+- IBPSA (International Building Performance Simulation Association)
 
 Hobbies
 ------
