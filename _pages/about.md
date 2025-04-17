@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "👋Hello there, I'm Guowen!"
+title: "👋 Hello there, I'm Guowen!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-😊I am a final year PhD student at Texas A&M University, College Station, TX, USA.
+😊 I am a final-year PhD student at Texas A&M University, College Station, TX, USA.
 
-🔍My research interests are in Building Energy and HVAC Systems Design, Analysis, Modeling, Simulation, and Optimization; Grid-interactive Efficient Buildings; Cyber-physical Systems; District Heating and Cooling Systems; Thermal Energy Storage; Modelica Modeling; Model Predictive Control; Energy Resilience; Building-to-Grid Integration.
+🔍 My research interests are in Building Energy and HVAC Systems Design, Analysis, Modeling, Simulation, and Optimization; Grid-interactive Efficient Buildings; Cyber-physical Systems; District Heating and Cooling Systems; Thermal Energy Storage; Modelica Modeling; Model Predictive Control; Energy Resilience; Building-to-Grid Integration.
 
 Research Projects
 ======
