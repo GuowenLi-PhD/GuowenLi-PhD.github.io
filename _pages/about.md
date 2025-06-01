@@ -53,7 +53,6 @@ Hobbies
 
 
 
-## Visitor Map (Private)
 
 <div id="visitor-map" style="display: none;">
   <a href="https://clustrmaps.com/site/1c6df" title="Visitor Map">
