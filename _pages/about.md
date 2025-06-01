@@ -50,7 +50,7 @@ Hobbies
 
 
 
-Visitors
+Visitor Map
 ------
 <!-- Map is hidden by default. To enable, open the page with ?showmap=1 -->
 
