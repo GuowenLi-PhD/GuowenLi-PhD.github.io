@@ -47,3 +47,24 @@ Hobbies
 - 🥾 **Hiking**
 - 🧗 **Bouldering & Climbing**
 - ⛳ **Golf**
+
+
+
+
+
+
+## Visitor Map (Private)
+
+<div id="visitor-map" style="display: none;">
+  <a href="https://clustrmaps.com/site/1c6df" title="Visitor Map">
+    <img src="https://clustrmaps.com/map_v2.png?d=9MjzTw70Ctkb06AXOfH7vAiZXGRf1pMIJ4Cna7Xk1A4&cl=ffffff" />
+  </a>
+</div>
+
+<script>
+  const urlParams = new URLSearchParams(window.location.search);
+  if (urlParams.get('showmap') === '1') {
+    document.getElementById('visitor-map').style.display = 'block';
+  }
+</script>
+
