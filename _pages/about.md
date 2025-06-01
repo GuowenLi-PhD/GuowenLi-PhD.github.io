@@ -48,8 +48,12 @@ Hobbies
 - 🧗 **Bouldering & Climbing**
 - ⛳ **Golf**
 
+
+
 Visitors
 ------
+<!-- Map is hidden by default. To enable, uncomment the script block below or open the page with ?showmap=1 -->
+
 <div id="visitor-map" style="display: none;">
   <a href="https://clustrmaps.com/site/1c6df" title="Visitor Map">
     <img src="https://clustrmaps.com/map_v2.png?d=9MjzTw70Ctkb06AXOfH7vAiZXGRf1pMIJ4Cna7Xk1A4&cl=ffffff" width="300" height="200"/>
