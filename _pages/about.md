@@ -52,7 +52,7 @@ Hobbies
 
 Visitors
 ------
-<!-- Map is hidden by default. To enable, uncomment the script block below or open the page with ?showmap=1 -->
+<!-- Map is hidden by default. To enable, open the page with ?showmap=1 -->
 
 <div id="visitor-map" style="display: none;">
   <a href="https://clustrmaps.com/site/1c6df" title="Visitor Map">
@@ -60,13 +60,13 @@ Visitors
   </a>
 </div>
 
-<!--
+
 <script>
   const urlParams = new URLSearchParams(window.location.search);
   if (urlParams.get('showmap') === '1') {
     document.getElementById('visitor-map').style.display = 'block';
   }
 </script>
--->
+
 
 
